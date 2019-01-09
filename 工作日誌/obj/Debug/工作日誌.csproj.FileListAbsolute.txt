@@ -1,0 +1,6 @@
+c:\users\113720\documents\visual studio 2013\Projects\工作日誌\工作日誌\bin\Debug\工作日誌.exe.config
+c:\users\113720\documents\visual studio 2013\Projects\工作日誌\工作日誌\bin\Debug\工作日誌.exe
+c:\users\113720\documents\visual studio 2013\Projects\工作日誌\工作日誌\bin\Debug\工作日誌.pdb
+c:\users\113720\documents\visual studio 2013\Projects\工作日誌\工作日誌\obj\Debug\工作日誌.csprojResolveAssemblyReference.cache
+c:\users\113720\documents\visual studio 2013\Projects\工作日誌\工作日誌\obj\Debug\工作日誌.exe
+c:\users\113720\documents\visual studio 2013\Projects\工作日誌\工作日誌\obj\Debug\工作日誌.pdb
