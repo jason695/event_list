@@ -1,0 +1,15 @@
+C:\Users\113720\Documents\Visual Studio 2013\Projects\需求單\需求單\bin\Debug\需求單.exe.config
+C:\Users\113720\Documents\Visual Studio 2013\Projects\需求單\需求單\bin\Debug\需求單.exe
+C:\Users\113720\Documents\Visual Studio 2013\Projects\需求單\需求單\bin\Debug\需求單.pdb
+C:\Users\113720\Documents\Visual Studio 2013\Projects\需求單\需求單\bin\Debug\HtmlAgilityPack.dll
+C:\Users\113720\Documents\Visual Studio 2013\Projects\需求單\需求單\bin\Debug\WatiN.Core.dll
+C:\Users\113720\Documents\Visual Studio 2013\Projects\需求單\需求單\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\113720\Documents\Visual Studio 2013\Projects\需求單\需求單\bin\Debug\HtmlAgilityPack.xml
+C:\Users\113720\Documents\Visual Studio 2013\Projects\需求單\需求單\bin\Debug\WatiN.Core.xml
+C:\Users\113720\Documents\Visual Studio 2013\Projects\需求單\需求單\obj\Debug\需求單.csprojResolveAssemblyReference.cache
+C:\Users\113720\Documents\Visual Studio 2013\Projects\需求單\需求單\obj\Debug\需求單.exe
+C:\Users\113720\Documents\Visual Studio 2013\Projects\需求單\需求單\obj\Debug\需求單.pdb
+C:\Users\113720\Documents\Visual Studio 2013\Projects\需求單\需求單\bin\Debug\Interop.SHDocVw.dll
+C:\Users\113720\Documents\Visual Studio 2013\Projects\需求單\需求單\bin\Debug\Microsoft.mshtml.dll
+C:\Users\113720\Documents\Visual Studio 2013\Projects\需求單\需求單\obj\Debug\Interop.SHDocVw.dll
+C:\Users\113720\Documents\Visual Studio 2013\Projects\需求單\需求單\obj\Debug\需求單.csproj.ResolveComReference.cache

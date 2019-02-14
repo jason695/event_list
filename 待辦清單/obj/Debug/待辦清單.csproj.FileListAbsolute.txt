@@ -1,4 +1,0 @@
-C:\Users\113720\Documents\Visual Studio 2013\Projects\待辦清單\待辦清單\bin\Debug\待辦清單.exe.config
-C:\Users\113720\Documents\Visual Studio 2013\Projects\待辦清單\待辦清單\obj\Debug\待辦清單.csproj.ResolveComReference.cache
-C:\Users\113720\Documents\Visual Studio 2013\Projects\待辦清單\待辦清單\obj\Debug\待辦清單.exe
-C:\Users\113720\Documents\Visual Studio 2013\Projects\待辦清單\待辦清單\obj\Debug\待辦清單.pdb
